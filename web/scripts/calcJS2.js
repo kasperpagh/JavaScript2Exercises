@@ -219,7 +219,3 @@ nul.onclick = function ()
 
 
 
-var klik = function (buttonID)
-{
-
-};
